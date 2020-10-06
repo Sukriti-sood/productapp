@@ -1,0 +1,48 @@
+.heading{
+    text-align: center;
+    font-size: 60px;;
+    text-decoration:dashed;
+}
+hr{
+    opacity: .5;
+}
+
+.image img{
+    width: 262px;
+    float: left;
+    height: 164px;
+}
+.item{
+    height: 179px;
+    margin-bottom: 11px;
+}
+.middle{
+    margin-left: 292px;
+    font-size: 23px;
+    line-height: 35px;
+}
+.description{
+    line-height: 13px;
+    margin-top: 10px;
+}
+.extra{
+    margin-top: 26px;
+}
+.vote{
+    display: inline;
+}
+.img{
+    margin-left: 40px;
+    display: inline-block;
+}
+.img img{
+    border-radius: 70px;
+    width: 40px;
+    position: absolute;
+    margin-top: -26px;
+}
+body{
+    background-color: #3db3b3!important;
+background-image: url("https://www.transparenttextures.com/patterns/foggy-birds.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
